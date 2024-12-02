@@ -3,6 +3,9 @@
     "PreSale": {
       "address": "0x3CFcFB78a6e0a0Ee0fB7ffb6aE65675970da4998",
       "startBlock": 7196056
+    },
+    "Claims": {
+      "address": "0x2Ba466AC788C71b7fb66fee869f76586dC1241e5"
     }
   }
 }
