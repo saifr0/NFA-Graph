@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "PreSale": {
+      "address": "0x3CFcFB78a6e0a0Ee0fB7ffb6aE65675970da4998",
+      "startBlock": 7196056
+    }
+  }
+}
